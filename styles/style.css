@@ -58,3 +58,24 @@ nav li{
     text-align: center;
     padding-bottom: 152px;
 }
+/* main*/
+.bn-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    padding-bottom: 23px;
+}
+.p-title{
+    font-weight: normal;
+    font-size: 24px;
+    color: #252432;
+    padding-bottom: 23px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 116px 141px;
+}
+.main-conten{
+    width: 517px;
+}
