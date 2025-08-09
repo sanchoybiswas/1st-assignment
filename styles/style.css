@@ -50,6 +50,7 @@ nav li{
 .my-btn{
     display: block;
     margin: 0 auto;
+
 }
 
 .banner{
@@ -108,4 +109,29 @@ nav li{
     display: flex;
     justify-content: space-around;
     padding-bottom: 50px;
+}
+.section2-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.section2-description{
+    font-size: 18px;
+    color: #72737F;
+}
+.Ready{
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    border-radius: 10px;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 71px 150px;
+   
+}
+.section2-img{
+    border-radius: 40px;
+    width: 840px;
+   
+}
+.btn{
+    margin-bottom: 20px;
 }
