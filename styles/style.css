@@ -79,3 +79,33 @@ nav li{
 .main-conten{
     width: 517px;
 }
+
+.section-title{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    padding: 50px 142px;
+    text-align: center;
+}
+.secondary-bg{
+    background-color: #E5E7FF;
+}
+/* joined style */
+.joined{
+    border-radius: 10px;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+.item-description{
+    font-size: 20px;
+    color: #72737F;
+}
+.item-title{
+    color: #4E47FF;
+}
+.joined-items{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
