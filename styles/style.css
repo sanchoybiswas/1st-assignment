@@ -6,6 +6,10 @@
   font-size: 40px;
 }
 
+.pgae{
+    background-color: #F5F8FF;
+}
+
 /* header*/
 .header{
     background-image: url('../Assets/Hero-bg.png');
@@ -134,4 +138,20 @@ nav li{
 }
 .btn{
     margin-bottom: 20px;
+}
+.section3-box{
+    padding: 92px 150px;
+    display: flex;
+    gap: 100px;
+}
+.section3-title{
+    width: 528px;
+    font-size: 95px;
+    font-weight: bold;
+}
+.section3-colun{
+    width: 50%;
+}
+ input[type="text"]{
+
 }
