@@ -16,6 +16,37 @@
 }
 
 /* shared style */
+
+.footer-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.footer-description{
+    font-size: 18px;
+    color: #72737F;
+   
+}
+.footer{
+    background-color: #F5F8FF;
+    border-radius: 10px;
+    margin-top: 15px;
+    max-width: 1440px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 104px 454px;
+}
+.footer-items{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-ti{
+    font-size: 25px;
+    color: #72737F;
+
+}
+
 .nav-logo{
     color: #4E47FF;
 }
